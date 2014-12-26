@@ -1,4 +1,4 @@
-HadoopSetUpWith-ubuntus
+HadoopSetUpWith-ubuntu
 =======================
 
 Hadoop Setup Tutorial
